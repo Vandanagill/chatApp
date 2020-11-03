@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "588695298435",
+    "firebase_url": "https://myauthapp-a21a9.firebaseio.com",
+    "project_id": "myauthapp-a21a9",
+    "storage_bucket": "myauthapp-a21a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588695298435:android:8acac4a8236a81462116b6",
+        "android_client_info": {
+          "package_name": "com.sonu.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588695298435-3vs9caftehobmavvcbg0rojpi7r4k35i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-skDVGLAqQKXzxRV1By3YwCdXS4lyKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588695298435-3vs9caftehobmavvcbg0rojpi7r4k35i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588695298435:android:aa9815005c97efc02116b6",
+        "android_client_info": {
+          "package_name": "com.sonu.mychat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588695298435-3vs9caftehobmavvcbg0rojpi7r4k35i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-skDVGLAqQKXzxRV1By3YwCdXS4lyKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588695298435-3vs9caftehobmavvcbg0rojpi7r4k35i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
